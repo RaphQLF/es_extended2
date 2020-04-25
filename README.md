@@ -1,5 +1,20 @@
 # Where is ESX?
 
+## UPDATE
+
+here's some quick facts:
+- i have rights to copy code (and much more) from  https://github.com/kanersps/essentialmode/tree/0b7285e494fb6943c0a39e2eed3d2bd02992523a as i am a copyright holder. with this information alone you can drop the dmca completly.
+- we dont know why kanersps would do such a low thing. if you look what he's saying to people they are all celebrating yet for some reasons they say we're assholes. the same people celebrating are the people who started this attitude way back yet according to themselves i started it. doing dmcas is crossing a line, why do you even share any code in a modding community if you gonna behave like a complete dick.
+- kanersps keeps saying that he cares about esx. but if he did he would've never done this dmca, especally since the original dmca wanted a) the entire repositorry deleted b) credit for "his work" he didn't even link. furthermore kanersps is lying in conversations with him (check esx discord for proof) on how he attempted to contact me in order to resolve the issue before claiming dmca. when we asked him for proof he kept changing subject and there's nothing in pms with him that confirms this. basicly kanersps is lying about that
+- dmca will keep it down esx for permanate, unless you counter dmca. we have counter dmca which means unless kanersps takes this to court within 2 weeks esx will be back
+- kanersps is lying in his dmca saying how he owns parts of code that are 100% original. the similarities are because we had to implement code that had the exact same featues. how you gonna go standalone if the code you're trying to ditch is needed, a perfect example is command handling.
+- the only file you'd think kanersps "owns" in any way is the player.lua file. but understand that he shared a file **concept** on how "class" file should've been looking like. he cant claim dmca on that. even if he is then im a copyright holder from the code linked above so we don't give a fuck anyways. go look in his dmca request he is marking code that i fucking developed as his just because they do the same, and you might think its suspicious but fucking understand we must implement code that does the exact same.
+- kanersps is lying to github about his project being licensed under AGPLv3. in the code above there's no license meaning it's licensed under "nolicense" - google it
+
+you think our attitude is bad? go look in the fivem discord and gay 🤢 kanersps discord they are all celebrating about this invalid dmca. just wait after 2 weeks we'll see if there's no consequenses to what happend
+
+## original text
+
 2020-04-22 we recieved an email from GitHub stating that kanersps had started a DMCA takedown notice against es_extended. https://pastebin.com/kKxwH7MS
 
 In his initial notice he is saying that multiple files in ESX belong to him and he would like to be credited for everything he has done. He doesn't link the exact files that he claim he owns, just a link to our repo. This means that he wants the entire repo removed if we don't credit him for his code.
