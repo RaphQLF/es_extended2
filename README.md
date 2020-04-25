@@ -25,7 +25,7 @@ here's some quick facts:
 - the only file you'd think kanersps "owns" in any way is the player.lua file. but understand that he shared a file **concept** on how "class" file should've been looking like. he cant claim dmca on that. even if he is then im a copyright holder from the code linked above so we don't give a fuck anyways. go look in his dmca request he is marking code that i fucking developed as his just because they do the same, and you might think its suspicious but fucking understand we must implement code that does the exact same.
 - kanersps is lying to github about his project being licensed under AGPLv3. in the code above there's no license meaning it's licensed under "nolicense" - google it
 
-you think our attitude is bad? go look in the fivem discord and gay 🤢 kanersps discord they are all celebrating about this invalid dmca. just wait after 2 weeks we'll see if there's no consequenses to what happend
+you think our attitude is bad? go look in the fivem discord and kanersps discord they are all celebrating about this invalid dmca. just wait after 2 weeks we'll see if there's no consequenses to what happend
 
 ## original text
 
